@@ -47,7 +47,12 @@ Atualmente, estou aprofundando meus conhecimentos em React por meio da Carreira 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
 
-📫 Vamos nos conectar?
+## Contatos:
+<div>
 
-💼 LinkedIn: https://www.linkedin.com/in/victória-oliveira
-📧 E-mail: oliveira.ml.victoria@gmail.com
+<a href="https://www.instagram.com/vicmoliveira
+  " target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "oliveira.ml.victoria@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/victória-oliveira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
