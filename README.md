@@ -17,7 +17,6 @@ Atualmente, estou aprofundando meus conhecimentos em **React** por meio da **Car
 * 🎓 Tecnóloga em **Sistemas para Internet**
 * 🤖 Estudante de **Bacharelado em Inteligência Artificial**
 * 💻 Interesse em **Desenvolvimento Full Stack**
-* ☕ Afinidade com **Java e desenvolvimento Back-end**
 * 🚀 Sempre buscando aprender e desenvolver novos projetos
 
 ---
